@@ -1,4 +1,4 @@
-# telegram-webapp-bot-starter
+# webapp
 starter web application template for telegram bots on React.js and typescript
 
 ## Setup
